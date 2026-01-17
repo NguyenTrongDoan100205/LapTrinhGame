@@ -140,8 +140,7 @@ Dựa trên cấu trúc tệp tin thực tế đã đẩy lên Git:
 
 ## 🛠 Hướng dẫn cài đặt
 
-1. 
-**Yêu cầu**: Unity Editor phiên bản **2019.4.17f1** hoặc **2021.1.14f1**.
+1. **Yêu cầu**: Unity Editor phiên bản **2019.4.17f1** hoặc **2021.1.14f1**.
 
 
 2. **Clone dự án**:
