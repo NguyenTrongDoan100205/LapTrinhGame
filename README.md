@@ -70,15 +70,100 @@ Dự án này là bài tập thực hành về toán học trong Unity, tập tr
 
 <img width="605" height="374" alt="PhanE3" src="https://github.com/user-attachments/assets/25ba516a-c194-4028-9317-2ec2109faa3f" />
 
-*Chú thích: Kết quả tọa độ hiển thị trên cửa sổ Console khi chạy Game.*
+---
+
+Dưới đây là nội dung đầy đủ cho tệp `README.md` của bạn. Tôi đã căn chỉnh lại toàn bộ mã nguồn để tránh bị hiện tượng chữ đen, đảm bảo hiển thị chữ trắng rõ ràng trên nền tối của GitHub, đồng thời chèn các vị trí ảnh tương ứng với các bước thực hành của bạn.
+
+---
+
+# Space Shooter Project
+
+## Giới thiệu
+
+Dự án này là bước đầu tiên trong quá trình xây dựng trò chơi **Space Shooter** trên nền tảng Unity. Bài thực hành tập trung vào việc làm quen với quy trình phát triển chuyên nghiệp, quản lý tài nguyên, hệ tọa độ và lập trình điều khiển đối tượng cơ bản.
+
+## Cấu trúc Repository
+
+Dựa trên cấu trúc tệp tin thực tế đã đẩy lên Git:
+
+* **Assets/**: Chứa toàn bộ tài nguyên game bao gồm Sprites, Scripts và Scenes.
+* **Packages/**: Quản lý các gói mở rộng của Unity.
+* **ProjectSettings/**: Lưu trữ cấu hình thiết lập của dự án.
+* **.gitignore**: Tệp tin loại bỏ các tệp tạm thời không cần thiết khi push lên Git.
+
+---
+
+## 🚀 Nội dung thực hiện & Minh họa
+
+### 1. Khởi tạo & Cấu hình Môi trường
+
+* Tạo dự án Unity 2D mới với tên gọi **SpaceShooter** tại thư mục dự án.
+
+
+* Thiết lập môi trường phát triển cho nền tảng **Android** để tối ưu hóa cho thiết bị di động.
+
+
+* Cấu hình độ phân giải màn hình dọc **1920x1080 Portrait**.
+
+
+
+(Gợi ý: Sử dụng ảnh minh họa chọn Template 2D hoặc cửa sổ Build Settings Android )
+
+### 2. Quản lý Tài nguyên (Assets Management)
+
+* Import gói tài nguyên **Space Shooter FREE** từ Unity Asset Store.
+
+
+* Tổ chức thư mục Assets khoa học để quản lý Sprites, Audio, và VFX.
+
+
+
+(Gợi ý: Sử dụng ảnh minh họa trang Space Shooter FREE trên Asset Store )
+
+### 3. Thiết lập Hierarchy & Phân cấp đối tượng
+
+* Tạo Scene **Battle** để thiết lập không gian trò chơi.
+
+
+* Đưa nhân vật (Player) vào Scene và điều chỉnh kích thước lớn hơn (**Scale = 2**).
+
+
+* Thiết lập mối quan hệ **Parent-Child** để gắn hiệu ứng lửa (flames) vào tàu chiến.
+
+
+
+(Gợi ý: Sử dụng ảnh minh họa cửa sổ Inspector của Player )
+
+### 4. Lập trình C# Scripting
+
+* 
+**Vòng đời Script**: Phân biệt hàm `Start()` (chạy khi bắt đầu) và `Update()` (chạy mỗi khung hình).
+
+
+* 
+**Hiệu ứng Nhấp nháy**: Lập trình script `Blinking.cs` để điều khiển trạng thái hiển thị của động cơ.
+
+
+* 
+**Điều khiển nhân vật**: Sử dụng `Input.mousePosition` để nhân vật di chuyển theo vị trí chuột.
+
+
+
+(Gợi ý: Sử dụng ảnh mã nguồn ShowLog hoặc Blinking )
 
 ---
 
 ## 🛠 Hướng dẫn cài đặt
 
-1. **Clone dự án**:
+1. 
+**Yêu cầu**: Unity Editor phiên bản **2019.4.17f1** hoặc **2021.1.14f1**.
 
-   git clone [https://github.com/NguyenTrongDoan100205/LapTrinhGame]
 
----
- 
+2. **Clone dự án**:
+
+```bash
+git clone https://github.com/NguyenTrongDoan10205/LapTrinhGame
+
+```
+
+3. **Mở dự án**: Sử dụng Unity Hub để `Add` thư mục dự án và mở Scene `Battle`.
