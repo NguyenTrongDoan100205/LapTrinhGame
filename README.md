@@ -1,52 +1,63 @@
-#LẬP TRÌNH GAME
+LẬP TRÌNH GAME
 ---
-
 # Mathematics in Unity: Coordinate Systems & Graphics Pipeline
 
 ## Giới thiệu
 
-Dự án này là bài tập thực hành về toán học trong Unity, tập trung vào việc tìm hiểu hệ tọa độ Cartesian, quy tắc bàn tay trái (Left-Handed Coordinate System) và quy trình chuyển đổi không gian từ 3D sang 2D (Graphics Pipeline).
+Dự án này là bài tập thực hành về toán học trong Unity, tập trung vào việc tìm hiểu hệ tọa độ Cartesian, quy tắc bàn tay trái và quy trình chuyển đổi không gian từ 3D sang 2D.
 
 ## Cấu trúc Repository
-
-Dựa trên cấu trúc đã push lên Git, dự án bao gồm các thành phần cốt lõi của một Unity Project:
 
 * **Assets/**: Chứa toàn bộ tài nguyên, scene bài tập và mã nguồn C#.
 * **Packages/**: Quản lý các gói phụ thuộc của dự án.
 * **ProjectSettings/**: Lưu trữ cấu hình thiết lập của Unity.
-* **.gitignore**: Tệp cấu hình loại bỏ các dữ liệu rác và tệp tạm thời khi push lên Git.
 
-## 🚀 Nội dung thực hiện
+## Nội dung thực hiện & Minh họa
 
 ### 1. Coordinate Systems & World Space
 
-* Thiết lập vật thể Cube tại tọa độ  trong không gian thế giới (World Space).
-* Xác định hệ trục tọa độ: Trục **Y** hướng lên trên và trục **Z** hướng theo chiều sâu.
+* Thiết lập vật thể Cube tại tọa độ  trong World Space.
+* Xác định hệ trục tọa độ: Trục **Y** hướng lên và trục **Z** hướng theo chiều sâu.
+
+*Chú thích: Ảnh chụp Cube tại vị trí thiết lập và các trục X, Y, Z.*
+
+---
 
 ### 2. Left-Handed Coordinate System
 
-* Kiểm chứng quy tắc bàn tay trái thông qua phép xoay vật thể.
-* Xác định chiều quay dương tương ứng với trục tọa độ trong Unity.
+* Kiểm chứng quy tắc bàn tay trái qua phép xoay .
+* Xác định chiều quay dương tương ứng với trục tọa độ.
+
+*Chú thích: Hướng xoay của Cube khi thay đổi Rotation Y.*
+
+---
 
 ### 3. Local Space vs World Space
 
-* Xây dựng mối quan hệ Cha - Con (Parent-Child) giữa các GameObject.
-* Phân tích sự thay đổi của tọa độ tuyệt đối (World) và tọa độ tương đối (Local) khi đối tượng cha di chuyển.
+* Xây dựng mối quan hệ Cha - Con (Parent-Child).
+* Quan sát sự thay đổi tọa độ khi di chuyển đối tượng cha.
+
+*Chú thích: Bảng Inspector thể hiện sự khác biệt giữa tọa độ Local và World.*
+
+---
 
 ### 4. Graphics Pipeline & Screen Space
 
-* Tìm hiểu cơ chế hoạt động của Camera qua các thông số: Field of View (FOV), Near/Far Clip Plane.
-* Triển khai Script `WorldToScreen.cs` để chuyển đổi tọa độ từ không gian 3D sang tọa độ Pixel (Screen Space).
+* Điều chỉnh Camera: Field of View (FOV) và Clipping Planes.
+* Sử dụng Script `WorldToScreen.cs` để chuyển đổi sang tọa độ Pixel.
+
+*Chú thích: Kết quả tọa độ hiển thị trên cửa sổ Console khi chạy Game.*
+
+---
 
 ## 🛠 Hướng dẫn cài đặt
 
-1. **Yêu cầu**: Unity Editor (phiên bản 2022.3.x hoặc mới hơn).
-2. **Clone dự án**:
+1. **Clone dự án**:
 ```bash
-git clone
+git clone [Link-Repo-Của-Bạn]
 
 ```
-3. **Mở dự án**: Sử dụng Unity Hub để `Add` thư mục `Mathematics in Unity` vào danh sách project.
-4. **Chạy Demo**: Mở Scene chính trong thư mục `Assets`, nhấn **Play** và theo dõi tọa độ hiển thị tại cửa sổ **Console**.
 
----
+
+2. **Mở dự án**: Sử dụng Unity Editor để mở thư mục `Mathematics in Unity`.
+3. **Chạy Scene**: Mở scene bài tập và nhấn **Play**.
