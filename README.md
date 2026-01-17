@@ -50,7 +50,3 @@ git clone
 4. **Chạy Demo**: Mở Scene chính trong thư mục `Assets`, nhấn **Play** và theo dõi tọa độ hiển thị tại cửa sổ **Console**.
 
 ---
-
-### Tiếp theo tôi có thể giúp gì cho bạn?
-
-Bạn có muốn tôi hỗ trợ **định dạng lại phần trả lời các câu hỏi lý thuyết** trong báo cáo để khớp hoàn toàn với cấu trúc của file README chuyên nghiệp này không?
