@@ -53,7 +53,22 @@ Dự án này là bài tập thực hành về toán học trong Unity, tập tr
 ### 4. Graphics Pipeline & Screen Space
 
 * Điều chỉnh Camera: Field of View (FOV) và Clipping Planes.
+  <img width="605" height="378" alt="PhanD" src="https://github.com/user-attachments/assets/f6e52796-1671-4f39-aafc-2602b62ba6b8" />
+---
+
+<img width="605" height="362" alt="PhanD2" src="https://github.com/user-attachments/assets/4d826c48-3e58-4d75-9a6c-25a223cd564e" />
+
 * Sử dụng Script `WorldToScreen.cs` để chuyển đổi sang tọa độ Pixel.
+* Hình ảnh :
+  <img width="605" height="504" alt="PhanE" src="https://github.com/user-attachments/assets/84af9765-3d98-4b19-ad2a-43e59304a49f" />
+
+  ---
+  
+<img width="605" height="378" alt="PhanE2" src="https://github.com/user-attachments/assets/e53afd43-fd5a-429c-8af7-aa9c1b40c74d" />
+
+---
+
+<img width="605" height="374" alt="PhanE3" src="https://github.com/user-attachments/assets/25ba516a-c194-4028-9317-2ec2109faa3f" />
 
 *Chú thích: Kết quả tọa độ hiển thị trên cửa sổ Console khi chạy Game.*
 
