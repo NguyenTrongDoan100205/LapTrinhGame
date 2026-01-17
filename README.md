@@ -73,7 +73,7 @@ Dự án này là bài tập thực hành về toán học trong Unity, tập tr
 
 ---
 
-# Space Shooter Project
+# Demo part1: Space Shooter Project
 
 ## Giới thiệu
 
@@ -124,18 +124,12 @@ Dựa trên cấu trúc tệp tin thực tế đã đẩy lên Git:
 * Thiết lập mối quan hệ **Parent-Child** để gắn hiệu ứng lửa (flames) vào tàu chiến.
 
 
-
 ### 4. Lập trình C# Scripting
 
-* 
 **Vòng đời Script**: Phân biệt hàm `Start()` (chạy khi bắt đầu) và `Update()` (chạy mỗi khung hình).
 
-
-* 
 **Hiệu ứng Nhấp nháy**: Lập trình script `Blinking.cs` để điều khiển trạng thái hiển thị của động cơ.
 
-
-* 
 **Điều khiển nhân vật**: Sử dụng `Input.mousePosition` để nhân vật di chuyển theo vị trí chuột.
 
 ![MayBay](https://github.com/user-attachments/assets/4895102a-ea69-420d-a1e0-4e43a810e1d0)
