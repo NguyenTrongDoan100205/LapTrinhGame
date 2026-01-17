@@ -54,7 +54,7 @@ Dự án này là bài tập thực hành về toán học trong Unity, tập tr
 
 1. **Clone dự án**:
 ```bash
-git clone [Link-Repo-Của-Bạn]
+git clone [https://github.com/NguyenTrongDoan100205/LapTrinhGame]
 
 ```
 
