@@ -60,6 +60,7 @@ Dự án này là bài tập thực hành về toán học trong Unity, tập tr
 
 * Sử dụng Script `WorldToScreen.cs` để chuyển đổi sang tọa độ Pixel.
 * Hình ảnh :
+
   <img width="605" height="504" alt="PhanE" src="https://github.com/user-attachments/assets/84af9765-3d98-4b19-ad2a-43e59304a49f" />
 
   ---
@@ -69,10 +70,6 @@ Dự án này là bài tập thực hành về toán học trong Unity, tập tr
 ---
 
 <img width="605" height="374" alt="PhanE3" src="https://github.com/user-attachments/assets/25ba516a-c194-4028-9317-2ec2109faa3f" />
-
----
-
-Dưới đây là nội dung đầy đủ cho tệp `README.md` của bạn. Tôi đã căn chỉnh lại toàn bộ mã nguồn để tránh bị hiện tượng chữ đen, đảm bảo hiển thị chữ trắng rõ ràng trên nền tối của GitHub, đồng thời chèn các vị trí ảnh tương ứng với các bước thực hành của bạn.
 
 ---
 
@@ -107,8 +104,6 @@ Dựa trên cấu trúc tệp tin thực tế đã đẩy lên Git:
 
 
 
-(Gợi ý: Sử dụng ảnh minh họa chọn Template 2D hoặc cửa sổ Build Settings Android )
-
 ### 2. Quản lý Tài nguyên (Assets Management)
 
 * Import gói tài nguyên **Space Shooter FREE** từ Unity Asset Store.
@@ -117,8 +112,6 @@ Dựa trên cấu trúc tệp tin thực tế đã đẩy lên Git:
 * Tổ chức thư mục Assets khoa học để quản lý Sprites, Audio, và VFX.
 
 
-
-(Gợi ý: Sử dụng ảnh minh họa trang Space Shooter FREE trên Asset Store )
 
 ### 3. Thiết lập Hierarchy & Phân cấp đối tượng
 
@@ -131,8 +124,6 @@ Dựa trên cấu trúc tệp tin thực tế đã đẩy lên Git:
 * Thiết lập mối quan hệ **Parent-Child** để gắn hiệu ứng lửa (flames) vào tàu chiến.
 
 
-
-(Gợi ý: Sử dụng ảnh minh họa cửa sổ Inspector của Player )
 
 ### 4. Lập trình C# Scripting
 
@@ -147,11 +138,11 @@ Dựa trên cấu trúc tệp tin thực tế đã đẩy lên Git:
 * 
 **Điều khiển nhân vật**: Sử dụng `Input.mousePosition` để nhân vật di chuyển theo vị trí chuột.
 
-
-
-(Gợi ý: Sử dụng ảnh mã nguồn ShowLog hoặc Blinking )
+![MayBay](https://github.com/user-attachments/assets/4895102a-ea69-420d-a1e0-4e43a810e1d0)
 
 ---
+
+![MayBay1](https://github.com/user-attachments/assets/2c82d77c-48eb-48d1-91ae-37c4b5e65afe)
 
 ## 🛠 Hướng dẫn cài đặt
 
