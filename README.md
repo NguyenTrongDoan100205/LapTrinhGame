@@ -30,6 +30,7 @@ Dự án này là bài tập thực hành về toán học trong Unity, tập tr
 * Xác định chiều quay dương tương ứng với trục tọa độ.
 
 *Chú thích: Hướng xoay của Cube khi thay đổi Rotation Y.*
+<img width="605" height="378" alt="PhanB" src="https://github.com/user-attachments/assets/162bb6d9-5fe3-4bfd-8745-fe37dff3b6eb" />
 
 ---
 
@@ -39,8 +40,14 @@ Dự án này là bài tập thực hành về toán học trong Unity, tập tr
 * Quan sát sự thay đổi tọa độ khi di chuyển đối tượng cha.
 
 *Chú thích: Bảng Inspector thể hiện sự khác biệt giữa tọa độ Local và World.*
+<img width="605" height="378" alt="PhanC" src="https://github.com/user-attachments/assets/5ce5e690-8bba-409d-9df3-cce53a3f8c8e" />
 
 ---
+<img width="605" height="378" alt="PhanC2" src="https://github.com/user-attachments/assets/fafd64da-0110-4eac-91ab-f50719d87b6a" />
+
+---
+<img width="605" height="376" alt="PhanC4" src="https://github.com/user-attachments/assets/7d5cc088-9738-4482-9e8d-fd97ccbc7f68" />
+
 
 ### 4. Graphics Pipeline & Screen Space
 
