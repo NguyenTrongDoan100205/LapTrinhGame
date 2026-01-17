@@ -30,6 +30,7 @@ Dự án này là bài tập thực hành về toán học trong Unity, tập tr
 * Xác định chiều quay dương tương ứng với trục tọa độ.
 
 *Chú thích: Hướng xoay của Cube khi thay đổi Rotation Y.*
+
 <img width="605" height="378" alt="PhanB" src="https://github.com/user-attachments/assets/162bb6d9-5fe3-4bfd-8745-fe37dff3b6eb" />
 
 ---
