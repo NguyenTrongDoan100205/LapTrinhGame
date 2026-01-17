@@ -20,6 +20,7 @@ Dự án này là bài tập thực hành về toán học trong Unity, tập tr
 * Xác định hệ trục tọa độ: Trục **Y** hướng lên và trục **Z** hướng theo chiều sâu.
 
 *Chú thích: Ảnh chụp Cube tại vị trí thiết lập và các trục X, Y, Z.*
+<img width="605" height="378" alt="PhanA" src="https://github.com/user-attachments/assets/3bc8ae06-d3fa-4ca0-b946-49d018f10313" />
 
 ---
 
