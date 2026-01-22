@@ -151,3 +151,71 @@ git clone https://github.com/NguyenTrongDoan10205/LapTrinhGame
 ```
 
 3. **Mở dự án**: Sử dụng Unity Hub để `Add` thư mục dự án và mở Scene `Battle`.
+
+Dưới đây là nội dung `README.md` đã được chèn trực tiếp đường dẫn hiển thị cho hai tệp ảnh `Demo2A1.jpg` và `Demo2A2.jpg` để chúng tự động hiển thị trên GitHub của bạn.
+
+---
+
+# Space Shooter Project - Part 2
+
+Dự án này tập trung vào việc xây dựng hệ thống chiến đấu cơ bản cho tàu vũ trụ trong Unity. Nội dung hướng dẫn cách tạo đạn từ Sprite , quản lý đối tượng bằng Prefab và thiết lập cơ chế bắn tự động.
+
+## Mục tiêu (Objectives)
+
+* Làm quen với việc xử lý Sprite và đối tượng trong không gian 2D.
+
+
+* Hiểu cách vận hành của hệ tọa độ để di chuyển đối tượng.
+
+
+* Quản lý tài nguyên dự án thông qua hệ thống Prefabs.
+
+
+* Xử lý sự kiện đầu vào từ người dùng để điều khiển hành động bắn.
+
+
+
+## Hướng dẫn thực hiện
+
+### 1. Tạo đối tượng đạn từ Sprite
+
+* Chọn hình ảnh đạn từ bộ tài nguyên dự án, cụ thể là các tệp `vulcan` trong thư mục `FX`.
+
+
+* Kéo và thả Sprite vào cửa sổ **Scene** để tạo một Game Object mới.
+
+
+
+### 2. Cấu hình đạn di chuyển (Bullet Movement)
+
+* Gắn thành phần điều khiển vào đối tượng đạn.
+
+
+* Thiết lập thông số **Fly Speed** trong cửa sổ **Inspector** (ví dụ: `5`) để đạn tự động bay lên theo trục Y.
+
+
+
+### 3. Tạo Bullet Prefab
+
+* Để tối ưu hóa việc tạo nhiều viên đạn, kéo đối tượng đạn từ cửa sổ **Hierarchy** vào thư mục `Prefabs` trong cửa sổ **Project**.
+
+
+* Việc này giúp biến đối tượng thành một "khuôn mẫu" có thể tái sử dụng vô số lần.
+
+
+
+### 4. Thiết lập hệ thống bắn tự động
+
+* Chọn đối tượng tàu người chơi `player_b_m`.
+
+
+* Gắn thành phần **Player Shooting** và kéo **Bullet Prefab** vào ô tham chiếu tương ứng.
+
+
+* Điều chỉnh **Shooting Interval** (ví dụ: `0.1`) để xác định tốc độ ra đạn khi giữ chuột trái.
+
+
+
+## 🚀 Kết quả (Results)
+
+Sau khi hoàn thành, tàu vũ trụ có thể bắn đạn liên tục theo hướng di chuyển của người chơi với tốc độ được cấu hình sẵn.
