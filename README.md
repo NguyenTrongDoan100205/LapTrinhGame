@@ -222,5 +222,5 @@ Sau khi hoàn thành, tàu vũ trụ có thể bắn đạn liên tục theo hư
 ### 1. Thao tác tạo đạn:
 ![Thao tác tạo đạn](https://raw.githubusercontent.com/NguyenTrongDoan100205/LapTrinhGame/main/SpaceShooter_Demo2/Demo2A1.jpg)
 
-### 2. Kết quả bắn tự động:
+### 2. Kết quả bắn:
 ![Kết quả bắn tự động](https://raw.githubusercontent.com/NguyenTrongDoan100205/LapTrinhGame/main/SpaceShooter_Demo2/Demo2A2.jpg)
