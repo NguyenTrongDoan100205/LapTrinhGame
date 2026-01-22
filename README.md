@@ -219,3 +219,8 @@ Dự án này tập trung vào việc xây dựng hệ thống chiến đấu c�
 ## 🚀 Kết quả (Results)
 
 Sau khi hoàn thành, tàu vũ trụ có thể bắn đạn liên tục theo hướng di chuyển của người chơi với tốc độ được cấu hình sẵn.
+
+![Thao tác tạo đạn](https://raw.githubusercontent.com/NguyenTrongDoan100205/SpaceShooter_Demo2/main/Demo2A1.jpg)
+
+![Kết quả bắn tự động](https://raw.githubusercontent.com/NguyenTrongDoan100205/SpaceShooter_Demo2/main/Demo2A2.jpg)
+
