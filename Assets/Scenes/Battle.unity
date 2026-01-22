@@ -338,6 +338,7 @@ GameObject:
   - component: {fileID: 620407702}
   - component: {fileID: 620407701}
   - component: {fileID: 620407703}
+  - component: {fileID: 620407704}
   m_Layer: 0
   m_Name: Short-Lazer-Ship
   m_TagString: MainCamera
@@ -433,6 +434,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0a140597c61136746b5c32d01fdf122b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+--- !u!114 &620407704
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 620407700}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f36bb360669b0a545b93ce92d3d0abe9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerShooting
+  bulletPrefabs: {fileID: 5974655366427911096, guid: 64f96d75e67eb32409ca6e098bbd0752,
+    type: 3}
+  shootingInterval: 0.1
+  weaponPower: 1
+  maxweaponPower: 4
 --- !u!1 &1238200716
 GameObject:
   m_ObjectHideFlags: 0
