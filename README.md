@@ -206,7 +206,7 @@ Dự án này tập trung vào việc xây dựng hệ thống chiến đấu c�
 
 ### 4. Thiết lập hệ thống bắn tự động
 
-* Chọn đối tượng tàu người chơi `player_b_m`.
+* Chọn đối tượng tàu người chơi.
 
 
 * Gắn thành phần **Player Shooting** và kéo **Bullet Prefab** vào ô tham chiếu tương ứng.
