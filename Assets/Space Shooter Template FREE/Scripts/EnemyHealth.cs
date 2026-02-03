@@ -1,17 +1,12 @@
-using UnityEngine;
+﻿using UnityEngine;
 
-public class EnemyHealth : MonoBehaviour
+public class EnemyHealth : Health // Kế thừa từ Health [cite: 199]
 {
-    public GameObject explosionPrefab;
+    // KHÔNG khai báo lại explosionPrefab ở đây
 
-    private void OnTriggerEnter2D(Collider2D collision) => Die();
-
-    private void Die()
+    protected override void Die() // [cite: 203]
     {
-        var explosion = Instantiate(explosionPrefab, transform.position,
-        transform.rotation);
-        Destroy(explosion, 1);
-        Destroy(gameObject);
+        base.Die(); // [cite: 205]
+        Debug.Log("Enemy died"); // [cite: 206]
     }
-
 }

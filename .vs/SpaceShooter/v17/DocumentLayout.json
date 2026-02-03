@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\SpaceShooter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|c:\\users\\admin\\spaceshooter\\assets\\space shooter template free\\scripts\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|C:\\Users\\Admin\\SpaceShooter\\assets\\space shooter template free\\scripts\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\space shooter template free\\scripts\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|c:\\users\\admin\\spaceshooter\\assets\\space shooter template free\\scripts\\playershooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\space shooter template free\\scripts\\playershooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|C:\\Users\\Admin\\SpaceShooter\\assets\\space shooter template free\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\space shooter template free\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|C:\\Users\\Admin\\SpaceShooter\\assets\\space shooter template free\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\space shooter template free\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|C:\\Users\\Admin\\SpaceShooter\\assets\\space shooter template free\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\space shooter template free\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|c:\\users\\admin\\spaceshooter\\assets\\space shooter template free\\scripts\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\space shooter template free\\scripts\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +30,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyAttack.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\SpaceShooter\\Assets\\Space Shooter Template FREE\\Scripts\\EnemyAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Space Shooter Template FREE\\Scripts\\EnemyAttack.cs",
+              "ToolTip": "C:\\Users\\Admin\\SpaceShooter\\Assets\\Space Shooter Template FREE\\Scripts\\EnemyAttack.cs",
+              "RelativeToolTip": "Assets\\Space Shooter Template FREE\\Scripts\\EnemyAttack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T07:27:48.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\SpaceShooter\\Assets\\Space Shooter Template FREE\\Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Space Shooter Template FREE\\Scripts\\Bullet.cs",
+              "ToolTip": "C:\\Users\\Admin\\SpaceShooter\\Assets\\Space Shooter Template FREE\\Scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Space Shooter Template FREE\\Scripts\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T07:23:45.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\SpaceShooter\\Assets\\Space Shooter Template FREE\\Scripts\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\Space Shooter Template FREE\\Scripts\\Health.cs",
+              "ToolTip": "C:\\Users\\Admin\\SpaceShooter\\Assets\\Space Shooter Template FREE\\Scripts\\Health.cs",
+              "RelativeToolTip": "Assets\\Space Shooter Template FREE\\Scripts\\Health.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T07:14:54.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\SpaceShooter\\Assets\\Space Shooter Template FREE\\Scripts\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Space Shooter Template FREE\\Scripts\\PlayerHealth.cs",
+              "ToolTip": "C:\\Users\\Admin\\SpaceShooter\\Assets\\Space Shooter Template FREE\\Scripts\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Space Shooter Template FREE\\Scripts\\PlayerHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T07:13:18.106Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,27 +96,10 @@
               "RelativeDocumentMoniker": "Assets\\Space Shooter Template FREE\\Scripts\\EnemyHealth.cs",
               "ToolTip": "C:\\Users\\Admin\\SpaceShooter\\Assets\\Space Shooter Template FREE\\Scripts\\EnemyHealth.cs",
               "RelativeToolTip": "Assets\\Space Shooter Template FREE\\Scripts\\EnemyHealth.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T08:22:54.868Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PlayerShooting.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\SpaceShooter\\Assets\\Space Shooter Template FREE\\Scripts\\PlayerShooting.cs",
-              "RelativeDocumentMoniker": "Assets\\Space Shooter Template FREE\\Scripts\\PlayerShooting.cs",
-              "ToolTip": "C:\\Users\\Admin\\SpaceShooter\\Assets\\Space Shooter Template FREE\\Scripts\\PlayerShooting.cs",
-              "RelativeToolTip": "Assets\\Space Shooter Template FREE\\Scripts\\PlayerShooting.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T07:29:10.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
