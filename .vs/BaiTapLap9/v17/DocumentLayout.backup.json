@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\BaiTapLap9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80ECDF73-EBAD-B761-C56D-493377C3F349}|Assembly-CSharp.csproj|c:\\users\\admin\\baitaplap9\\assets\\scrips\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80ECDF73-EBAD-B761-C56D-493377C3F349}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80ECDF73-EBAD-B761-C56D-493377C3F349}|Assembly-CSharp.csproj|c:\\users\\admin\\baitaplap9\\assets\\scrips\\gameconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80ECDF73-EBAD-B761-C56D-493377C3F349}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\gameconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80ECDF73-EBAD-B761-C56D-493377C3F349}|Assembly-CSharp.csproj|C:\\Users\\Admin\\BaiTapLap9\\assets\\scrips\\jsonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80ECDF73-EBAD-B761-C56D-493377C3F349}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\jsonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80ECDF73-EBAD-B761-C56D-493377C3F349}|Assembly-CSharp.csproj|C:\\Users\\Admin\\BaiTapLap9\\assets\\scrips\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80ECDF73-EBAD-B761-C56D-493377C3F349}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80ECDF73-EBAD-B761-C56D-493377C3F349}|Assembly-CSharp.csproj|C:\\Users\\Admin\\BaiTapLap9\\assets\\scrips\\highscoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80ECDF73-EBAD-B761-C56D-493377C3F349}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\highscoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80ECDF73-EBAD-B761-C56D-493377C3F349}|Assembly-CSharp.csproj|C:\\Users\\Admin\\BaiTapLap9\\assets\\scrips\\gameplaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80ECDF73-EBAD-B761-C56D-493377C3F349}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\gameplaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80ECDF73-EBAD-B761-C56D-493377C3F349}|Assembly-CSharp.csproj|C:\\Users\\Admin\\BaiTapLap9\\assets\\scrips\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80ECDF73-EBAD-B761-C56D-493377C3F349}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80ECDF73-EBAD-B761-C56D-493377C3F349}|Assembly-CSharp.csproj|C:\\Users\\Admin\\BaiTapLap9\\assets\\scrips\\gamedisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80ECDF73-EBAD-B761-C56D-493377C3F349}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\gamedisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80ECDF73-EBAD-B761-C56D-493377C3F349}|Assembly-CSharp.csproj|C:\\Users\\Admin\\BaiTapLap9\\assets\\scrips\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80ECDF73-EBAD-B761-C56D-493377C3F349}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80ECDF73-EBAD-B761-C56D-493377C3F349}|Assembly-CSharp.csproj|C:\\Users\\Admin\\BaiTapLap9\\assets\\scrips\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80ECDF73-EBAD-B761-C56D-493377C3F349}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\BaiTapLap9\\Assets\\Scrips\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\Admin\\BaiTapLap9\\Assets\\Scrips\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scrips\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T03:37:40.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\BaiTapLap9\\Assets\\Scrips\\GameConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\GameConfig.cs",
+              "ToolTip": "C:\\Users\\Admin\\BaiTapLap9\\Assets\\Scrips\\GameConfig.cs",
+              "RelativeToolTip": "Assets\\Scrips\\GameConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T03:34:09.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JsonHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\BaiTapLap9\\Assets\\Scrips\\JsonHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\JsonHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\BaiTapLap9\\Assets\\Scrips\\JsonHandler.cs",
+              "RelativeToolTip": "Assets\\Scrips\\JsonHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T03:29:48.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerData.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\BaiTapLap9\\Assets\\Scrips\\PlayerData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\PlayerData.cs",
+              "ToolTip": "C:\\Users\\Admin\\BaiTapLap9\\Assets\\Scrips\\PlayerData.cs",
+              "RelativeToolTip": "Assets\\Scrips\\PlayerData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T03:29:10.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HighScoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\BaiTapLap9\\Assets\\Scrips\\HighScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\HighScoreManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\BaiTapLap9\\Assets\\Scrips\\HighScoreManager.cs",
+              "RelativeToolTip": "Assets\\Scrips\\HighScoreManager.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T03:21:30.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GamePlayController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\BaiTapLap9\\Assets\\Scrips\\GamePlayController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\GamePlayController.cs",
+              "ToolTip": "C:\\Users\\Admin\\BaiTapLap9\\Assets\\Scrips\\GamePlayController.cs",
+              "RelativeToolTip": "Assets\\Scrips\\GamePlayController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T03:18:24.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\BaiTapLap9\\Assets\\Scrips\\GameDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\GameDisplay.cs",
+              "ToolTip": "C:\\Users\\Admin\\BaiTapLap9\\Assets\\Scrips\\GameDisplay.cs",
+              "RelativeToolTip": "Assets\\Scrips\\GameDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T02:51:52.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\BaiTapLap9\\Assets\\Scrips\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\BaiTapLap9\\Assets\\Scrips\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scrips\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T03:13:29.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\BaiTapLap9\\Assets\\Scrips\\MenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\MenuController.cs",
+              "ToolTip": "C:\\Users\\Admin\\BaiTapLap9\\Assets\\Scrips\\MenuController.cs",
+              "RelativeToolTip": "Assets\\Scrips\\MenuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T02:44:33.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\BaiTapLap9\\Assets\\Scrips\\DataManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\DataManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\BaiTapLap9\\Assets\\Scrips\\DataManager.cs",
+              "RelativeToolTip": "Assets\\Scrips\\DataManager.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T02:39:06.812Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
